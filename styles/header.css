@@ -73,6 +73,9 @@
     .opcoes{
         display: block;
     }
+    .menu{
+        display: none;
+    }
 }
 
 
